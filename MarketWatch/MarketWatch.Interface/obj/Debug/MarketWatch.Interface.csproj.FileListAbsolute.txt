@@ -1,0 +1,4 @@
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Interface\bin\Debug\MarketWatch.Interface.dll
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Interface\bin\Debug\MarketWatch.Interface.pdb
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Interface\obj\Debug\MarketWatch.Interface.dll
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Interface\obj\Debug\MarketWatch.Interface.pdb

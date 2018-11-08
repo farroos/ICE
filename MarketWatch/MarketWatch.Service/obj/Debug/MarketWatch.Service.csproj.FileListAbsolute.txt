@@ -1,0 +1,8 @@
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\bin\MarketWatch.Service.dll.config
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\bin\MarketWatch.Service.dll
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\bin\MarketWatch.Service.pdb
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\bin\MarketWatch.Interface.dll
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\bin\MarketWatch.Interface.pdb
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\obj\Debug\MarketWatch.Service.csprojResolveAssemblyReference.cache
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\obj\Debug\MarketWatch.Service.dll
+c:\users\f_kha\onedrive\documents\visual studio 2017\Projects\MarketWatch\MarketWatch.Service\obj\Debug\MarketWatch.Service.pdb

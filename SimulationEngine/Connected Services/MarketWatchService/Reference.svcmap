@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cfe7d6c3-f868-46b4-b8d9-e5e0f6a6d481" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3123/MarketWatch.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MarketWatch.disco" MetadataType="Disco" ID="966a54d1-3f7a-468a-b255-7092bfca05fe" SourceId="1" SourceUrl="http://localhost:3123/MarketWatch.svc?disco" />
+    <MetadataFile FileName="MarketWatch.wsdl" MetadataType="Wsdl" ID="92ce6829-53ca-4244-a2a2-60423d7073ae" SourceId="1" SourceUrl="http://localhost:3123/MarketWatch.svc?wsdl" />
+    <MetadataFile FileName="MarketWatch.xsd" MetadataType="Schema" ID="efd8fb5b-b9a0-4aff-8fc1-0407b5624003" SourceId="1" SourceUrl="http://localhost:3123/MarketWatch.svc?xsd=xsd0" />
+    <MetadataFile FileName="MarketWatch1.xsd" MetadataType="Schema" ID="c6a784de-32c2-46c1-9d81-c0fc6fcd51d6" SourceId="1" SourceUrl="http://localhost:3123/MarketWatch.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

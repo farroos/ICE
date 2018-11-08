@@ -1,0 +1,8 @@
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\bin\Debug\ClientMarketWatch.exe.config
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\bin\Debug\ClientMarketWatch.exe
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\bin\Debug\ClientMarketWatch.pdb
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\obj\Debug\ClientMarketWatch.Properties.Resources.resources
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\obj\Debug\ClientMarketWatch.csproj.GenerateResource.Cache
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\obj\Debug\ClientMarketWatch.exe
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\obj\Debug\ClientMarketWatch.pdb
+C:\Users\f_kha\OneDrive\Documents\Visual Studio 2017\Projects\UI\ClientMarketWatch\obj\Debug\ClientMarketWatch.MarketWatchForm.resources
